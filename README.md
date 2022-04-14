@@ -11,3 +11,9 @@ Untuk mengaktifkan virtual enviroment
 </ol>
 
 ## Menjalankan Web App
+
+<ol>
+  <li>kembali ke folder sebelumnya</li>
+  <li>Ketik python app.py</li>
+  <li>tekan Enter</li>
+</ol>
